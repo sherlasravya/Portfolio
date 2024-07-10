@@ -1,0 +1,31 @@
+.contactPage {
+    padding: 2rem;
+}
+
+.experience {
+    margin-top: 2rem;
+}
+
+.job {
+    margin-bottom: 2rem;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.job h3 {
+    margin-bottom: 0.5rem;
+}
+
+.date {
+    font-style: italic;
+    color: #666;
+}
+
+ul {
+    padding-left: 1.5rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
